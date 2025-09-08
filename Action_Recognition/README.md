@@ -2,10 +2,12 @@
 
 1.  **SAR-RARP50**
     -   **Description**: Surgical action recognition in Robot-Assisted Radical Prostatectomy.
+    -   **Link**: [Synapse](https://www.synapse.org/#!Synapse:syn27618412/wiki/616881)
     -   **Note**: Also used for Object Detection and Segmentation.
 
 2.  **PSI-AVA**
     -   **Description**: A dataset for action and interaction recognition in surgical videos.
+    -   **Link**: [GitHub Repository (TAPIR)](https://github.com/BCV-Uniandes/TAPIR)
 
 3.  **Grasp**
     -   **Description**: Datasets related to robotic grasping and manipulation.
